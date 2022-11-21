@@ -12,7 +12,6 @@ The demo project lets you draw to a 8K texture at realtime.
 
 Writing the whole map's groundwater levels to a texture to make it "wet"
 ![image](https://user-images.githubusercontent.com/1968543/203129788-bfe109f3-a82d-4240-ade0-987a451feb14.png)
-![image](https://user-images.githubusercontent.com/1968543/203130334-37e51b7d-638f-464b-819d-1ba843a7e9ce.png)
 
 
 ## How it works:
