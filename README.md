@@ -10,7 +10,7 @@ The demo project lets you draw to a 8K texture at realtime.
 
 ## Practical Example (not included):
 
-Writing the whole map's groundwater levels to a texture to acess groundwater levels in materials
+Writing the whole map's groundwater levels to a texture to acess groundwater in materials
 ![image](https://user-images.githubusercontent.com/1968543/203129788-bfe109f3-a82d-4240-ade0-987a451feb14.png)
 
 
