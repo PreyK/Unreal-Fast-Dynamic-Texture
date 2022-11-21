@@ -8,10 +8,11 @@ The demo project lets you draw to a 8K texture at realtime.
 
 `Click` with the mouse to draw, Press `C` to clear the canvas, press `Space` to toggle chunked rendering on/off
 
-## Practical Example:
+## Practical Example (not included):
 
 Writing the whole map's groundwater levels to a texture to make it "wet"
 ![image](https://user-images.githubusercontent.com/1968543/203129788-bfe109f3-a82d-4240-ade0-987a451feb14.png)
+![image](https://user-images.githubusercontent.com/1968543/203130334-37e51b7d-638f-464b-819d-1ba843a7e9ce.png)
 
 
 ## How it works:
