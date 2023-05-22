@@ -38,7 +38,7 @@ public:
 	UFUNCTION(BlueprintCallable, Category = DrawingTools)
 		void InitializeDrawingTools(const int32 brushRadius);
 	UFUNCTION(BlueprintCallable, Category = DrawingTools)
-		void DrawDot(const int32 pixelCoordX, const int32 pixelCoordY);
+		void DrawDot(const int32 pixelCoordX, const int32 pixelCoordY, int radius);
 
 	UDrawingCanvas();
 	~UDrawingCanvas();
